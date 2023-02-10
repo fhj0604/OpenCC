@@ -1,3 +1,4 @@
+# script for performance test
 import opencc
 from datasets import load_dataset
 from tqdm.contrib import tzip
