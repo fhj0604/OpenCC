@@ -12,6 +12,7 @@ Details in https://github.com/BYVoid/OpenCC
 
 ## File structure 
 ### natural-instructions
+* [Original Data Link](https://github.com/allenai/natural-instructions)
 * `tasks` is the original directory with simplified Chinese
 * `s2t_tasks` is the directory including translated files using `s2twp.json`
 
